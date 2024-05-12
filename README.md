@@ -1,1 +1,1 @@
-# keycloak-spi-example
+# keycloak-custom-resource-demo
